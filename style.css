@@ -45,7 +45,7 @@ body {
     margin: 1rem 0;
 }
 
-.type h2 {
+.type p {
     font-weight: 800;
     font-size: clamp(0.8rem, -0.2870rem + 4.6377vw, 1rem);
 }
@@ -83,7 +83,7 @@ body {
     height: 100%;
 }
 
-.author h3 {
+.author p {
     font-weight: 800;
     margin-left: 0.5rem;
     font-size: clamp(0.95rem, 4cqi, 1.1rem);
